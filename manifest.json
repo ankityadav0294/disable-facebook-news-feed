@@ -1,0 +1,15 @@
+{
+  "description": "Removes news feed from Facebook.",
+  "manifest_version": 2,
+  "name": "Disable FB news Feed",
+  "version": "1.2",
+
+  "content_scripts": 
+  [
+    {
+  		"css": ["style.css"],
+		"matches": ["*://*.facebook.com/*"],
+		"run_at": "document_start"      
+    }
+  ]
+}
