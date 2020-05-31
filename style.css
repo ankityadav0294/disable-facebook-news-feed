@@ -1,19 +1,7 @@
-#topnews_main_stream_408239535924329
-{
-    height: 0;
-    width: 0;
-    overflow: hidden;
-}
-
-#pagelet_ego_pane
-{
-    height: 0;
-    width: 0;
-    overflow: hidden;
-}
-
-#m_newsfeed_stream
-{
+#topnews_main_stream_408239535924329,
+#pagelet_ego_pane,
+#m_newsfeed_stream,
+.tn0ko95a {
   height: 0;
   width: 0;
   overflow: hidden;
