@@ -1,7 +1,5 @@
-#topnews_main_stream_408239535924329,
-#pagelet_ego_pane,
-#m_newsfeed_stream,
-.tn0ko95a {
+span#ssrb_feed_start + div[role="feed"],
+#m_news_feed_stream {
   height: 0;
   width: 0;
   overflow: hidden;
