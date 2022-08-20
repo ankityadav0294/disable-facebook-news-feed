@@ -2,7 +2,7 @@
     "description": "Removes News Feed from Facebook.",  
     "manifest_version": 2,  
     "name": "Disable Facebook News Feed",  
-    "version": "2.0", 
+    "version": "3.0", 
     "author": "Ankit Kumar", 
     "content_scripts":  
     [  
