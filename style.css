@@ -1,4 +1,4 @@
-span#ssrb_feed_start + div[role="feed"],
+span#ssrb_feed_start + div,
 #m_news_feed_stream {
   height: 0;
   width: 0;
